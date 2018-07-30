@@ -29,7 +29,7 @@ The full list of parameters is available on [Chrome's Developer site](https://ch
 
 ### Not saving the PDF ###
 
-Not providing the pdf_path argument, the html_to_pdf function will return the PDF as a base64 encoded string.
+In the absence of the pdf_path argument, the html_to_pdf function will return the PDF as a base64 encoded string.
 
     pdf = p.html_to_pdf("html_file.htm")
 

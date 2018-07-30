@@ -17,7 +17,6 @@ setuptools.setup(
     classifiers=(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 2",
-        "License :: OSI Approved :: APACHE SOFTWARE LICENSE",
         "Operating System :: OS Independent",
     ),
 )
