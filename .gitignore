@@ -1,3 +1,6 @@
 lasku_pohja.pdf
 lasku_pohja.htm
 *.pyc
+build
+dist
+pdfy.egg-info
