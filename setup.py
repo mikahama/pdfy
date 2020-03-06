@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pdfy",
-    version="1.0.30",
+    version="1.0.40",
     author="Mika Hämäläinen",
     author_email="mika.hamalainen@helsinki.fi",
     description="A library for converting HTML files into PDF. The tool uses Chrome to render the HTML and print it into a pdf file.",
