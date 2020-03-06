@@ -28,7 +28,7 @@ class Pdfy():
         if executable_path:
             webdriver_params['executable_path'] = executable_path
 
-        driver = webdriver.Chrome(**webdriver_params)
+        self.driver = webdriver.Chrome(**webdriver_params)
         self.chrome = PyChromeDevTools.ChromeInterface(port=debug_port)
         self.chrome.Page.enable()
 
