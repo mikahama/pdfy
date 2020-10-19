@@ -54,7 +54,7 @@ class Pdfy():
 
     def html_to_pdf(self, html_path, pdf_path = None, options={"paperWidth": 8.3, "paperHeight":11.7, "marginTop": 0, "marginBottom":0, "marginLeft":0, "marginRight":0}):
         self.chrome.Page.navigate(url=self.__resolve_path(html_path))
-        self.chrome.wait_event("Page.loadEventFired", timeout=60)
+        self.chrome.wait_event("Page.frameStoppedLoading", timeout=60)
         pdf_data = self.chrome.Page.printToPDF(**options)["result"]["data"]
         if pdf_path is None:
             return pdf_data
