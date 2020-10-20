@@ -51,19 +51,20 @@ The library will run Chrome in the background in the remote debug mode. This mea
 
 This library is released under [the Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
-(C) Copyright 2018 [Mika Hämäläinen](https://mikakalevi.com)
+(C) Copyright 2018-2020 [Mika Hämäläinen](https://mikakalevi.com)
 
 ## Cite
 
-    @software{mika_hamalainen_2020_3977555,
-      author       = {Mika Hämäläinen and
-                      Mike and
-                      Mirza Delic},
-      title        = {mikahama/pdfy 1.0.40},
-      month        = aug,
-      year         = 2020,
-      publisher    = {Zenodo},
-     version      = {1.0.40},
-      doi          = {10.5281/zenodo.3977555},
-      url          = {https://doi.org/10.5281/zenodo.3977555}
-    }
+	@software{mika_hamalainen_2020_4108770,
+	  author       = {Mika Hämäläinen and
+	                  Hiromu Hota and
+	                  Mike and
+	                  Mirza Delic},
+	  title        = {mikahama/pdfy 1.0.50},
+	  month        = oct,
+	  year         = 2020,
+	  publisher    = {Zenodo},
+	  version      = {1.0.50},
+	  doi          = {10.5281/zenodo.4108770},
+	  url          = {https://doi.org/10.5281/zenodo.4108770}
+	}
