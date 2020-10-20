@@ -1,5 +1,7 @@
 # Pdfy #
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4108770.svg)](https://doi.org/10.5281/zenodo.4108770)
+
 Pdfy is a Python library for converting HTML (and anything Chrome can render) into PDF. It uses Chrome printing functionality, so the PDFs will be rendered exactly as printed in the browser.
 
 ## Need for NLP solutions for your business?
