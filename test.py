@@ -1,4 +1,4 @@
 from pdfy import Pdfy
 
-p = Pdfy(9223)
-p.html_to_pdf("lasku_pohja.htm", pdf_path="lasku_pohja.pdf")
+p = Pdfy(debug_port=9223)
+p.html_to_pdf("https://www.aljazeera.net/", pdf_path="test.pdf")
