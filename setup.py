@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pdfy",
-    version="1.1.0",
+    version="1.2.0",
     author="Mika Hämäläinen",
     author_email="mika@rootroo.com",
     description="A library for converting HTML files into PDF. The tool uses Chrome to render the HTML and print it into a pdf file.",
@@ -15,8 +15,7 @@ setuptools.setup(
     url="https://github.com/mikahama/pdfy",
     packages=setuptools.find_packages(),
     install_requires=[
-          'selenium',
-          "PyChromeDevTools>=0.3"
+          'selenium'
       ],
     classifiers=(
         "Programming Language :: Python :: 3",
