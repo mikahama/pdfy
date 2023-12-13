@@ -47,14 +47,8 @@ The library will run Chrome in the background in the remote debug mode. This mea
 
 This library is released under [the Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
-(C) Copyright 2018-2022 [Mika Hämäläinen](https://mikakalevi.com)
+(C) Copyright 2018-2023 [Mika Hämäläinen](https://mikakalevi.com)
 
-## Need for NLP solutions for your business?
-
-
-<img src="https://rootroo.com/cropped-logo-01-png/" alt="Rootroo logo" width="128px" height="128px">
-
-My company, [Rootroo offers consulting related to multilingual NLP tasks](https://rootroo.com/). We have a strong academic background in the state-of-the-art AI solutions for every NLP need. Just contact us, we won't bite.
 
 ## Cite
 
