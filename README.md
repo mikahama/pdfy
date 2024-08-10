@@ -47,7 +47,7 @@ The library will run Chrome in the background in the remote debug mode. This mea
 
 This library is released under [the Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
-(C) Copyright 2018-2023 [Mika Hämäläinen](https://mikakalevi.com)
+(C) Copyright 2018-2024 [Mika Hämäläinen](https://mikakalevi.com)
 
 
 ## Cite
